@@ -1,0 +1,5 @@
+all the steps performed by the vacuum cleaner: 
+the total number of steps performed: 0
+a result of the amount of dirt left in house: 1
+an indication of whether the vacuum cleaner is dead: 0
+an indication of whether mission is succeeded: 0
